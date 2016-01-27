@@ -117,6 +117,8 @@ mlpeters12	Shopping-site	100
 COPY projects (id, title, description, max_grade) FROM stdin;
 1	Markov	Tweets generated from Markov chains	50
 2	Blockly	Programmatic Logic Puzzle Game	10
+34	CupidMe	Hi	100
+3	Turd	This is a description	100
 \.
 
 
